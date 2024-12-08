@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+#list-container {
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: fit-content;
+    border-radius: 8px;
+}
+.node {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 10px 20px;
+    border: 1px solid #007BFF;
+    border-radius: 4px;
+    background-color: #f0f8ff;
+}
+.arrow {
+    display: inline-block;
+    margin: 0 5px;
+    color: #007BFF;
+    font-weight: bold;
+}
